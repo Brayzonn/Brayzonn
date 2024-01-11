@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hello, I'm Eyinda Bright 👋
 
-<!--
-**Brayzonn/Brayzonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend software developer with front-end experience, passionate about building scalable applications. My skill set includes a mix of backend technologies, front-end frameworks, and DevOps experience.
 
-Here are some ideas to get you started:
+## 🔧 Skills and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Development:**
+  - Node.js
+  - TypeScript
+  - Express.js
+  - MongoDB (NoSQL)
+
+- **Front-end Development:**
+  - React
+  - JavaScript (ES6+)
+  - HTML
+  - CSS
+  - Tailwind CSS
+
+- **DevOps:**
+  - Experience in managing Ubuntu VPS servers
+  - Deployment and continuous integration
+
+## 🚀 Projects
+
+Projects can be found in my public repo 
+
+
+...
+
+## 🌱 Currently Learning
+
+I'm currently expanding my knowledge in Typescript SQL databases, and back-end in general.
+
+## 👯 Let's Collaborate
+
+I'm always open to collaboration on interesting projects. If you have an idea or a project you'd like to work on together, feel free to reach out.
+
+## 💬 Get in Touch
+
+- Email: brayzoney@gmail.com
+
+## ⚡ Fun Fact
+
+I happen to be above average in FIFA.😉
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?brayzonn&show_icons=true)
