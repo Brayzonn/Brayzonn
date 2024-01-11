@@ -23,7 +23,7 @@ I'm a backend software developer with front-end experience, passionate about bui
 
 ## 🚀 Projects
 
-Projects can be found in my public repo 
+My public projects can be found in my repo list
 
 
 ...
