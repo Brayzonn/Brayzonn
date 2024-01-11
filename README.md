@@ -2,6 +2,8 @@
 
 I'm a backend software developer with front-end experience, passionate about building scalable applications. My skill set includes a mix of backend technologies, front-end frameworks, and DevOps experience.
 
+In addition to my experience, I am passionate about technology, and I also enjoy making collaborative efforts to find creative solutions to challenging problems.
+
 ## 🔧 Skills and Technologies
 
 - **Backend Development:**
