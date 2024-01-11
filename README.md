@@ -44,4 +44,4 @@ I'm always open to collaboration on interesting projects. If you have an idea or
 
 I happen to be above average in FIFA.😉
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?brayzonn&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayzonn&show_icons=true)
