@@ -32,7 +32,7 @@ My public projects can be found in my repo list
 
 ## 🌱 Currently Learning
 
-I'm currently expanding my knowledge in Typescript, SQL databases, and back-end in general.
+I'm currently expanding my knowledge in databases, and exploring cloud based technology.
 
 ## 👯 Let's Collaborate
 
