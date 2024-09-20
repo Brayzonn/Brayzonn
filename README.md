@@ -8,7 +8,6 @@ In addition to my experience, I am passionate about technology, and I also enjoy
 
 - **Backend Development:**
   - Node.js
-  - TypeScript
   - Express.js
   - MongoDB (NoSQL)
 
@@ -18,6 +17,9 @@ In addition to my experience, I am passionate about technology, and I also enjoy
   - HTML
   - CSS
   - Tailwind CSS
+ 
+- **Dev Tools:**
+  - TypeScript
 
 - **DevOps:**
   - Experience in managing Ubuntu VPS servers
