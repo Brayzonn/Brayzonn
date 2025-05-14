@@ -1,25 +1,25 @@
 # Hello, I'm Eyinda Bright 👋
 
-I'm a backend software developer with front-end experience, passionate about building scalable applications. My skill set includes a mix of backend technologies, front-end frameworks, and DevOps experience.
+I'm a fullstack developer, passionate about building scalable applications that solve real-world problems. With expertise spanning backend technologies, frontend frameworks, and DevOps practices, I create robust software solutions from concept to deployment.
 
-In addition to my experience, I am passionate about technology, and I also enjoy making collaborative efforts to find creative solutions to challenging problems.
+My technical curiosity drives me to continuously expand my knowledge and adopt new technologies that enhance user experiences and application performance.
 
 ## 🔧 Skills and Technologies
 
 - **Backend Development:**
-  - Node.js
-  - Express.js
-  - MongoDB (NoSQL)
+  - Node/Express.js 
+  - MongoDB 
+  - PostgreSQL
 
 - **Front-end Development:**
   - React
   - JavaScript (ES6+)
   - HTML
-  - CSS
-  - Tailwind CSS
+  - CSS/Tailwind CSS
  
 - **Dev Tools:**
   - TypeScript
+  - --
 
 - **DevOps:**
   - Experience in managing Ubuntu VPS servers
@@ -29,12 +29,17 @@ In addition to my experience, I am passionate about technology, and I also enjoy
 
 My public projects can be found in my repo list
 
-
 ...
 
-## 🌱 Currently Learning
+## 🌟 Professional Approach
 
-I'm currently expanding my knowledge in databases, and exploring cloud based technology.
+I approach software development with a focus on:
+
+- Clean, maintainable code architecture
+- Performance optimization and scalability
+- Comprehensive testing and quality assurance
+- User-centered design thinking
+- Agile development methodologies
 
 ## 👯 Let's Collaborate
 
@@ -46,6 +51,6 @@ I'm always open to collaboration on interesting projects. If you have an idea or
 
 ## ⚡ Fun Fact
 
-I happen to be above average in FIFA.😉
+I happen to be above average in FIFA
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayzonn&show_icons=true)
