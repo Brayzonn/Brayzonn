@@ -31,26 +31,20 @@ My public projects can be found in my repo list
 
 ...
 
-## 🌟 Professional Approach
+## Professional Approach
 
 I approach software development with a focus on:
 
 - Clean, maintainable code architecture
 - Performance optimization and scalability
-- Comprehensive testing and quality assurance
 - User-centered design thinking
-- Agile development methodologies
 
-## 👯 Let's Collaborate
+## Let's Collaborate
 
 I'm always open to collaboration on interesting projects. If you have an idea or a project you'd like to work on together, feel free to reach out.
 
 ## 💬 Get in Touch
 
 - Email: brayzoney@gmail.com
-
-## ⚡ Fun Fact
-
-I happen to be above average in FIFA
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayzonn&show_icons=true)
