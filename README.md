@@ -1,6 +1,6 @@
 # Hello, I'm Eyinda Bright 
 
-I'm a fullstack developer, passionate about building scalable applications that solve real-world problems. With expertise spanning backend technologies, frontend frameworks, and DevOps practices, I create robust software solutions from concept to deployment.
+I'm a web developer, passionate about building scalable applications that solve real-world problems. With expertise spanning backend technologies, frontend frameworks, and DevOps practices, I create robust software solutions from concept to deployment.
 
 My technical curiosity drives me to continuously expand my knowledge and adopt new technologies that enhance user experiences and application performance.
 
