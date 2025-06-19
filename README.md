@@ -1,49 +1,27 @@
-# Hello, I'm Eyinda Bright 
+# Hi, I'm Eyinda Bright! 👋
 
-I'm a web developer, passionate about building scalable applications that solve real-world problems. With expertise spanning backend technologies, frontend frameworks, and DevOps practices, I create robust software solutions from concept to deployment.
+Welcome to my GitHub profile! 
 
-My technical curiosity drives me to continuously expand my knowledge and adopt new technologies that enhance user experiences and application performance.
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/eyinda-bright)
+- [X](https://x.com/brayzoney)
+- [Personal Website](https://www.zoneyhub.com)
 
-## 🔧 Skills and Technologies
+## Skills
 
-- **Backend Development:**
-  - Node/Express.js 
-  - MongoDB 
-  - PostgreSQL
+#### Programming Languages  
+![Languages](https://skillicons.dev/icons?i=js,typescript)
 
-- **Front-end Development:**
-  - React
-  - JavaScript (ES6+)
-  - HTML
-  - CSS/Tailwind CSS
- 
-- **Dev Tools:**
-  - TypeScript
-  - --
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,tailwind)
 
-- **DevOps:**
-  - Experience in managing Ubuntu VPS servers
-  - Deployment and continuous integration
+#### Backend Technologies
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express)
 
-## 🚀 Projects
+#### Database 
+![Database](https://skillicons.dev/icons?i=postgres,mongodb)
 
-My public projects can be found in my repo list
+#### Deployment & Tools  
+![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,bash)
 
-...
-
-## Professional Approach
-
-I approach software development with a focus on:
-
-- Clean, maintainable code architecture
-- Performance optimization and scalability
-- User-centered design thinking
-
-## Let's Collaborate
-
-I'm always open to collaboration on interesting projects. If you have an idea or a project you'd like to work on together, feel free to reach out.
-
-## 💬 Get in Touch
-
-- Email: brayzoney@gmail.com
 
