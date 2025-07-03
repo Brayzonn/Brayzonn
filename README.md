@@ -25,6 +25,6 @@ I specialize in full-stack development with JavaScript and TypeScript, building 
 ![Database](https://skillicons.dev/icons?i=postgres,mongodb)
 
 #### Deployment & Tools  
-![Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,bash)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel,bash)
 
 
