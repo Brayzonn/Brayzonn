@@ -1,7 +1,7 @@
 # Hi, I'm Eyinda Bright! 👋
 
 ## About Me
-I’m a full-stack developer experienced in JavaScript and TypeScript, creating responsive, user-focused frontend applications with React and developing scalable server-side applications with Node.js, NestJS, and Express. I focus on building maintainable architecture applications that scale seamlessly with user needs.
+I’m Eyinda, a full-stack developer experienced in JavaScript and TypeScript. I build responsive frontends with React and scalable server-side applications with Node.js, NestJS, and Express, driven by curiosity and a passion for solving complex problems.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyinda-bright)
